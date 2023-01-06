@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
-![angular calculator](Screenshot.png)
+![angular calculator](./src/assets/Screenshot.png)
 
 ## Development server
 
